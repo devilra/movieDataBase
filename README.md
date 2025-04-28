@@ -6,6 +6,8 @@ Develop an application based on video-on-demand websites that provides an extens
 - Single Movie Details Page
 - Searched Movies Page
 
+ "node": "^10.13 || 12 || 14 || 15",
+
 <br/>
 ### List of Features
 
